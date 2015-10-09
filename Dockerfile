@@ -10,6 +10,7 @@ RUN apt-get update \
       byobu \
       git \
       vim \
+      wget \
  && apt-get clean \
  && apt-get autoclean -y \
  && apt-get autoremove -y
