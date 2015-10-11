@@ -1,2 +1,2 @@
 # dockerfile_ubuntu
-Dockerfile for surenderthakran's docker ubuntu images
+Repo for surenderthakran's docker ubuntu images
