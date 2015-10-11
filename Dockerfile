@@ -11,6 +11,7 @@ RUN apt-get update \
       git \
       vim \
       wget \
+      curl \
  && apt-get clean \
  && apt-get autoclean -y \
  && apt-get autoremove -y
