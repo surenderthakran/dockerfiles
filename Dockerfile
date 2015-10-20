@@ -15,3 +15,8 @@ RUN cd opt/ \
  && apt-get clean \
  && apt-get autoclean -y \
  && apt-get autoremove -y
+
+EXPOSE 80
+EXPOSE 443
+
+CMD ["nginx"]
