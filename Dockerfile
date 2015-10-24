@@ -12,6 +12,7 @@ RUN apt-get update \
       vim \
       wget \
       curl \
+      build-essential \
  && apt-get clean \
  && apt-get autoclean -y \
  && apt-get autoremove -y
