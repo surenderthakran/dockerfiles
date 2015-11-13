@@ -1,8 +1,8 @@
 ##
-#	Dockerfile for nodejs v4.1.2 installation on Ubuntu 14.04 with npm v2.14.4
+#	Dockerfile for nodejs v4.x installation on Ubuntu 14.04 with npm v2.x
 ##
 
-FROM surenderthakran/ubuntu:14.04
+FROM surenderthakran/ubuntu:trusty
 
 RUN apt-get update \
  && apt-get -y upgrade \
