@@ -2,7 +2,7 @@
 #	Dockerfile for nginx latest stable version on Ubuntu 14.04
 ##
 
-FROM surenderthakran/ubuntu:14.04
+FROM surenderthakran/ubuntu:trusty
 
 RUN cd opt/ \
  && echo "" >> /etc/apt/sources.list \
