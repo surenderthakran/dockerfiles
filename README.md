@@ -1,5 +1,5 @@
 # dockerfile_nodejs
-Repo for surenderthakran's docker nodejs images
+Repo for surenderthakran's nodejs docker images
 
 ###v4
 Last Updated: 02/01/2016
