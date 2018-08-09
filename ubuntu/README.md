@@ -9,4 +9,8 @@ docker build -t surenderthakran/ubuntu:trusty .
 For Xenial Xerus (16.04)
 ```
 docker build -t surenderthakran/ubuntu:xenial .
+
+For Bionic Beaver (18.04)
+```
+docker build -t surenderthakran/ubuntu:bionic .
 ```
